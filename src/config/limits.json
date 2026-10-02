@@ -1,0 +1,5 @@
+{
+  "minComponents": 2,
+  "maxComponents": 10,
+  "maxFeeBps": 200
+}
